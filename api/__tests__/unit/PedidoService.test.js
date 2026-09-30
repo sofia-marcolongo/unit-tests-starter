@@ -1,4 +1,4 @@
-const PedidoService = require("../services/PedidoService");
+const PedidoService = require("../../services/PedidoService");
 
 describe("PedidoService (unitario com mocks)", () => {
   let service;
